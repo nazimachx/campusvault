@@ -1,9 +1,13 @@
 # Week 1: Achour Nazim
 
 Track: A
+
 Kernel on the host (uname -r): 6.18.54.1-microsoft-standard-WSL2
+
 Kernel inside the alpine container (uname -r): 6.18.54.1-microsoft-standard-WSL2
+
 RAM and CPU cores (free -h, nproc):
+
 free -h:
                total        used        free      shared  buff/cache   available
 Mem:            15Gi       1.0Gi        13Gi        50Mi       1.6Gi        14Gi
