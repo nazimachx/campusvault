@@ -1,4 +1,3 @@
+# requirements.txt (production)
 fastapi==0.142.2
 uvicorn[standard]
-pytest
-httpx
